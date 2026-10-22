@@ -138,25 +138,37 @@ An interactive dashboard exploring gaming industry data.
 
 <div align="center">
 
-## `04` — PLAYER ZONE
+## `04` — 🎮 PLAYER ZONE
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=350&lines=GAME+MODE%3A+ON;READY+TO+RESPAWN;PLAYER+ONE" alt="Animated gaming heading" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1500&color=58A6FF&center=true&vCenter=true&width=420&lines=GAME+MODE%3A+ON;EAT.+SLEEP.+GAME.+REPEAT." alt="Gaming animation" />
 
-<sub>🎮 OFF THE KEYBOARD. INTO THE GAME.</sub>
+<br/>
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/PUBG%20PC-LEVEL%20110-2563EB?style=for-the-badge&logo=steam&logoColor=white" alt="PUBG PC Level 110" />
+<img src="https://img.shields.io/badge/PUBG_PC-LEVEL_110-2563EB?style=for-the-badge&logo=steam&logoColor=white" alt="PUBG PC" />
 
-<br/><br/>
+</td>
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/RED%20DEAD%20REDEMPTION%202-STORY%20MODE-78350F?style=for-the-badge" alt="Red Dead Redemption 2" />
+<img src="https://img.shields.io/badge/RDR2-STORY_MODE-78350F?style=for-the-badge" alt="Red Dead Redemption 2" />
 
-<br/><br/>
+</td>
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/FREE%20FIRE-21%20CS%20%7C%2011%20BR%20HEROIC%20BADGES-8B5CF6?style=for-the-badge" alt="Free Fire Heroic badge counts" />
+<img src="https://img.shields.io/badge/FREE_FIRE-21_CS_%7C_11_BR-8B5CF6?style=for-the-badge" alt="Free Fire" />
 
-<br/><br/>
+<br/>
+
+<sub>HEROIC BADGES</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 `⚡ CODE. COMPETE. REPEAT. ⚡`
 
