@@ -144,7 +144,7 @@ An interactive dashboard exploring gaming industry data.
 <table>
 <tr>
 <td align="center" valign="middle" width="30%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PlayerUnknown%27s_Battlegrounds_Steam_Logo.jpg/320px-PlayerUnknown%27s_Battlegrounds_Steam_Logo.jpg" width="110" alt="PUBG Battlegrounds"/><br/>
+<img src="https://www.krafton.com/wp-content/uploads/2021/07/PUBG_BG_Brand_Guidelines_2021_External.pdf" width="110" alt="PUBG Battlegrounds"/>
 <sub>LEVEL <b>110</b></sub>
 </td>
 
