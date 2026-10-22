@@ -1,65 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=RAHIL%20SHAH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B12,50:111827,100:2563EB&text=RAHIL%20SHAH&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=BUILD.%20CREATE.%20INNOVATE.&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Rahil Shah — Build Create Innovate" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Developer+%7C+Tech+Enthusiast;Building+Projects+That+Solve+Real+Problems" alt="Typing SVG" />
+<br/>
+
+### `AI & DATA SCIENCE`  ·  `DEVELOPER`  ·  `GAMER`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real+projects.;Exploring+AI+and+building+software.;Code.+Create.+Repeat." alt="Animated developer tagline" />
+
+<br/>
+
+<a href="https://github.com/Rahilshah2234?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
+</a>
+&nbsp;
+<a href="https://github.com/Rahilshah2234">
+  <img src="https://img.shields.io/badge/VIEW%20GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub" />
+</a>
 
 </div>
 
----
-
-## 👋 About Me
-
-Hey! I'm **Rahil Shah**, a final-year Artificial Intelligence & Data Science engineering student at **K.K. Wagh Institute of Engineering Education & Research, Nashik**.
-
-* 🎓 Final-year AI & Data Science Engineering student.
-* 💻 Interested in software development, AI/ML and data analytics.
-* 🌱 Always learning and building practical projects.
-* 🚀 Working on projects that solve real-world problems.
-* 🎯 Focused on strengthening my programming and problem-solving skills.
+<br/>
 
 ---
-
-## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="58%" valign="middle">
+
+## `01` — WHO AM I?
+
+Hey, I'm **Rahil Shah** 👋
+
+A final-year Artificial Intelligence & Data Science engineering student who enjoys building software, exploring emerging technologies, and turning ideas into practical projects.
+
+* 🎓 AI & Data Science Engineering
+* 💻 Programming & Software Development
+* 🤖 Exploring AI, ML & Data Analytics
+* 🚀 Building real-world projects
+* 🎮 Gaming and automobile enthusiast
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer coding animation" />
+
+<br/>
+
+<sub>ALWAYS BUILDING SOMETHING.</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `02` — SELECTED WORKS
+
+<sub>A FEW PROJECTS I'VE BEEN BUILDING</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌱 Carbonomics-AI
 
-AI-driven carbon intelligence platform for emissions analysis, forecasting and decarbonization planning.
+AI-powered carbon intelligence and emissions analysis.
 
-**Focus:** AI/ML · Data Analytics · Sustainability
+`ARTIFICIAL INTELLIGENCE` · `SUSTAINABILITY`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎵 MoodWave
 
-Offline mood-based music player for Android, built to organize and play locally stored music.
+An offline, mood-based music player for Android.
 
-**Focus:** Kotlin · Jetpack Compose · Android
+`KOTLIN` · `ANDROID`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏠 HostelHub
 
-Hostel Management System featuring student registration, room allocation, fee management and complaint handling.
+A web-based hostel management system.
 
-**Focus:** PHP · MySQL · Bootstrap
+`PHP` · `MYSQL`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Gaming Industry Insights
 
-Interactive dashboard for exploring gaming industry trends and performance.
+An interactive dashboard exploring gaming industry data.
 
-**Focus:** Power BI · Data Visualization · Analytics
+`POWER BI` · `ANALYTICS`
 
 </td>
 </tr>
@@ -68,67 +109,63 @@ Interactive dashboard for exploring gaming industry trends and performance.
 <div align="center">
 
 <a href="https://github.com/Rahilshah2234?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/ALL%20REPOSITORIES-OPEN%20COLLECTION-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
 </a>
 
 </div>
 
 ---
 
-## 🛠️ Languages & Tools
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,sql,php,mysql,mongodb,html,css,js,git,github,vscode,kotlin,androidstudio" />
+## `03` — MY TOOLKIT
+
+<sub>TECHNOLOGIES I WORK WITH</sub>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,php,mysql,mongodb,git,github,vscode&theme=dark" alt="Programming languages and developer tools" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+&nbsp;
+<img src="https://img.shields.io/badge/TABLEAU-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahilshah2234&show_icons=true&theme=tokyonight&hide_border=true" />
+## `04` — BEYOND THE CODE
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahilshah2234&layout=compact&theme=tokyonight&hide_border=true" />
+**TECHNOLOGY IS WHAT I BUILD. GAMING IS WHAT I ENJOY.**
+
+<br/>
+
+<sub>GAMING PROFILE · FAVOURITE GAMES · PERSONAL INTERESTS</sub>
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Rahilshah2234&theme=tokyonight&hide_border=true" />
+`MORE COMING SOON`
 
 </div>
 
 ---
 
-## 🎯 Current Goals
-
-* 📚 Improve Data Structures & Algorithms.
-* 🤖 Explore AI and Machine Learning applications.
-* 🏗️ Build and document practical software projects.
-* 💼 Prepare for software development and data-oriented career opportunities.
-
----
-
-## 🤝 Connect With Me
-
 <div align="center">
+
+### LET'S BUILD SOMETHING GREAT.
 
 <a href="https://github.com/Rahilshah2234">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-⭐ **Thanks for visiting my profile!**
+<sub>DESIGNED WITH CURIOSITY. BUILT WITH PURPOSE.</sub>
 
-*Keep learning. Keep building. Keep growing.*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2563EB,50:111827,100:080B12&section=footer" width="100%" alt="Footer banner" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
