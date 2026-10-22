@@ -136,52 +136,36 @@ An interactive dashboard exploring gaming industry data.
 
 ---
 
+<!-- PLAYER ZONE -->
 <div align="center">
 
-## `04` — 🎮 PLAYER ZONE
-
-<sub>GAME MODE: ON</sub>
-
-<br/>
+## 🎮 PLAYER ZONE
 
 <table>
 <tr>
-<td align="center" width="33%">
-
-<img src="https://cdn.simpleicons.org/steam/FFFFFF" width="32" alt="Steam logo"/>
-
-**PUBG PC**
-
-`LEVEL 110`
-
+<td align="center" valign="middle" width="30%">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/PUBG_Battlegrounds_Logo.svg" width="110" alt="PUBG Battlegrounds"/><br/>
+<strong>PUBG PC</strong><br/>
+<sub>LEVEL <b>110</b></sub>
 </td>
-<td align="center" width="34%">
 
-<img src="https://cdn.simpleicons.org/playstation/FFFFFF" width="32" alt="PlayStation logo"/>
-
-**STORY MODE**
-
-RDR2 · The Last of Us Part II
-
+<td align="center" valign="middle" width="35%">
+<strong>STORY MODE</strong><br/><br/>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Red_Dead_Redemption_2_Logo.png" width="115" alt="Red Dead Redemption 2"/><br/>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/The_Last_of_Us_Part_II_logo.svg" width="115" alt="The Last of Us Part II"/>
 </td>
-<td align="center" width="33%">
 
-<img src="https://cdn.simpleicons.org/garmin/8B5CF6" width="32" alt="Gaming icon"/>
-
-**FREE FIRE**
-
-`CS 21` · `BR 11`
-
-<sub>HEROIC BADGES</sub>
-
+<td align="center" valign="middle" width="30%">
+<strong>HEROIC BADGES</strong><br/>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Freefirelogo.png" width="95" alt="Free Fire"/><br/>
+<code>CS · 21</code> &nbsp; <code>BR · 11</code>
 </td>
 </tr>
 </table>
 
-`⚡ CODE. COMPETE. REPEAT. ⚡`
+<sub>CODE. COMPETE. REPEAT.</sub>
 
 </div>
-
 ---
 
 <div align="center">
