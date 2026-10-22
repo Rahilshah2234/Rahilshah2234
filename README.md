@@ -138,63 +138,47 @@ An interactive dashboard exploring gaming industry data.
 
 <div align="center">
 
-## `04` — PLAYER ZONE
+## `04` — 🎮 PLAYER ZONE
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=PLAYER+ZONE;GAME+MODE%3A+ON;READY+TO+RESPAWN" alt="Player Zone animation" />
+<sub>GAME MODE: ON</sub>
 
-<sub>🎮 OFF THE KEYBOARD. INTO THE GAME.</sub>
-
-<br/><br/>
+<br/>
 
 <table>
 <tr>
-<td align="center" width="33%" valign="top">
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🎯-PUBG_PC-0B5EA8?style=for-the-badge" alt="PUBG PC" />
+<img src="https://cdn.simpleicons.org/steam/FFFFFF" width="32" alt="Steam logo"/>
 
-<br/><br/>
+**PUBG PC**
 
-<img src="https://img.shields.io/badge/LEVEL-110-2563EB?style=for-the-badge&logo=steam&logoColor=white" alt="PUBG Level 110" />
-
-</td>
-<td align="center" width="34%" valign="top">
-
-<img src="https://img.shields.io/badge/📖-STORY_MODE-78350F?style=for-the-badge" alt="Story Mode" />
-
-<br/><br/>
-
-**🤠 RED DEAD REDEMPTION 2**
-
-<sub>WESTERN · OPEN WORLD</sub>
-
-<br/><br/>
-
-**🧟 THE LAST OF US PART II**
-
-<sub>STORY · SURVIVAL</sub>
+`LEVEL 110`
 
 </td>
-<td align="center" width="33%" valign="top">
+<td align="center" width="34%">
 
-<img src="https://img.shields.io/badge/🏆-HEROIC_BADGES-7C3AED?style=for-the-badge" alt="Heroic Badges" />
+<img src="https://cdn.simpleicons.org/playstation/FFFFFF" width="32" alt="PlayStation logo"/>
 
-<br/><br/>
+**STORY MODE**
 
-<img src="https://img.shields.io/badge/FREE_FIRE-FF4655?style=for-the-badge&logo=freefire&logoColor=white" alt="Free Fire" />
+RDR2 · The Last of Us Part II
 
-<br/><br/>
+</td>
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/CS-21-8B5CF6?style=for-the-badge" alt="Clash Squad 21 badges" />
+<img src="https://cdn.simpleicons.org/garmin/8B5CF6" width="32" alt="Gaming icon"/>
 
-<img src="https://img.shields.io/badge/BR-11-6D28D9?style=for-the-badge" alt="Bermuda 11 badges" />
+**FREE FIRE**
+
+`CS 21` · `BR 11`
+
+<sub>HEROIC BADGES</sub>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<img src="https://img.shields.io/badge/⚡_CODE._COMPETE._REPEAT._⚡-111827?style=for-the-badge&labelColor=0B1220" alt="Code Compete Repeat" />
+`⚡ CODE. COMPETE. REPEAT. ⚡`
 
 </div>
 
