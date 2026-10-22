@@ -138,31 +138,55 @@ An interactive dashboard exploring gaming industry data.
 
 <div align="center">
 
-## `04` — 🎮 PLAYER ZONE
+## `04` — PLAYER ZONE
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1500&color=58A6FF&center=true&vCenter=true&width=420&lines=GAME+MODE%3A+ON;EAT.+SLEEP.+GAME.+REPEAT." alt="Gaming animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=PLAYER+ZONE;GAME+MODE%3A+ON;READY+TO+RESPAWN" alt="Player Zone animation" />
 
-<br/>
+<sub>🎮 OFF THE KEYBOARD. INTO THE GAME.</sub>
+
+<br/><br/>
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/PUBG_PC-LEVEL_110-2563EB?style=for-the-badge&logo=steam&logoColor=white" alt="PUBG PC" />
+<img src="https://img.shields.io/badge/🎯-PUBG_PC-0B5EA8?style=for-the-badge" alt="PUBG PC" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LEVEL-110-2563EB?style=for-the-badge&logo=steam&logoColor=white" alt="PUBG Level 110" />
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="34%" valign="top">
 
-<img src="https://img.shields.io/badge/RDR2-STORY_MODE-78350F?style=for-the-badge" alt="Red Dead Redemption 2" />
+<img src="https://img.shields.io/badge/📖-STORY_MODE-78350F?style=for-the-badge" alt="Story Mode" />
+
+<br/><br/>
+
+**🤠 RED DEAD REDEMPTION 2**
+
+<sub>WESTERN · OPEN WORLD</sub>
+
+<br/><br/>
+
+**🧟 THE LAST OF US PART II**
+
+<sub>STORY · SURVIVAL</sub>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/FREE_FIRE-21_CS_%7C_11_BR-8B5CF6?style=for-the-badge" alt="Free Fire" />
+<img src="https://img.shields.io/badge/🏆-HEROIC_BADGES-7C3AED?style=for-the-badge" alt="Heroic Badges" />
 
-<br/>
+<br/><br/>
 
-<sub>HEROIC BADGES</sub>
+<img src="https://img.shields.io/badge/FREE_FIRE-FF4655?style=for-the-badge&logo=freefire&logoColor=white" alt="Free Fire" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CS-21-8B5CF6?style=for-the-badge" alt="Clash Squad 21 badges" />
+
+<img src="https://img.shields.io/badge/BR-11-6D28D9?style=for-the-badge" alt="Bermuda 11 badges" />
 
 </td>
 </tr>
@@ -170,7 +194,7 @@ An interactive dashboard exploring gaming industry data.
 
 <br/>
 
-`⚡ CODE. COMPETE. REPEAT. ⚡`
+<img src="https://img.shields.io/badge/⚡_CODE._COMPETE._REPEAT._⚡-111827?style=for-the-badge&labelColor=0B1220" alt="Code Compete Repeat" />
 
 </div>
 
