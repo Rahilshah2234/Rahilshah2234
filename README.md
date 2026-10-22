@@ -4,7 +4,7 @@
 
 <br/>
 
-### `AI & DATA SCIENCE`  ·  `DEVELOPER`  ·  `GAMER`
+### `AI & DATA SCIENCE` · `DEVELOPER`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real+projects.;Exploring+AI+and+building+software.;Code.+Create.+Repeat." alt="Animated developer tagline" />
 
@@ -138,17 +138,27 @@ An interactive dashboard exploring gaming industry data.
 
 <div align="center">
 
-## `04` — BEYOND THE CODE
+## `04` — PLAYER ZONE
 
-**TECHNOLOGY IS WHAT I BUILD. GAMING IS WHAT I ENJOY.**
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=350&lines=GAME+MODE%3A+ON;READY+TO+RESPAWN;PLAYER+ONE" alt="Animated gaming heading" />
 
-<br/>
-
-<sub>GAMING PROFILE · FAVOURITE GAMES · PERSONAL INTERESTS</sub>
+<sub>🎮 OFF THE KEYBOARD. INTO THE GAME.</sub>
 
 <br/><br/>
 
-`MORE COMING SOON`
+<img src="https://img.shields.io/badge/PUBG%20PC-LEVEL%20110-2563EB?style=for-the-badge&logo=steam&logoColor=white" alt="PUBG PC Level 110" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/RED%20DEAD%20REDEMPTION%202-STORY%20MODE-78350F?style=for-the-badge" alt="Red Dead Redemption 2" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FREE%20FIRE-21%20CS%20%7C%2011%20BR%20HEROIC%20BADGES-8B5CF6?style=for-the-badge" alt="Free Fire Heroic badge counts" />
+
+<br/><br/>
+
+`⚡ CODE. COMPETE. REPEAT. ⚡`
 
 </div>
 
@@ -159,7 +169,7 @@ An interactive dashboard exploring gaming industry data.
 ### LET'S BUILD SOMETHING GREAT.
 
 <a href="https://github.com/Rahilshah2234">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 
 <br/><br/>
