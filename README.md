@@ -246,6 +246,58 @@ An interactive Power BI dashboard exploring gaming industry trends and presentin
 
 ---
 
+<!-- EDUCATION -->
+
+<div align="center">
+
+## `04` — EDUCATION
+
+<br/>
+
+<a href="https://www.kkwagh.edu.in/">
+<img src="https://img.shields.io/badge/K.K._Wagh_Institute_of_Engineering_Education_%26_Research-Nashik-2563EB?style=for-the-badge&logo=google-scholar&logoColor=white" alt="K.K. Wagh Institute of Engineering Education and Research"/>
+</a>
+
+### Bachelor of Engineering
+
+**Artificial Intelligence & Data Science**
+
+<sub>📍 Nashik, Maharashtra, India · 🎓 Final Year · Expected Graduation: 2027</sub>
+
+</div>
+
+---
+
+<!-- CONNECT WITH ME -->
+
+<div align="center">
+
+## `05` — CONNECT WITH ME
+
+<sub>OPEN TO OPPORTUNITIES, COLLABORATIONS AND INTERESTING PROJECTS.</sub>
+
+<br/><br/>
+
+<a href="https://github.com/Rahilshah2234">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/rahil-shah-8a8a1526a/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:shahrahil67790@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<sub>ALWAYS HAPPY TO CONNECT, LEARN AND BUILD TOGETHER.</sub>
+
+</div>
+
+---
+
 <!-- FOOTER -->
 
 <div align="center">
