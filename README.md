@@ -242,59 +242,6 @@ An interactive Power BI dashboard exploring gaming industry trends and presentin
 <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 
----
-
-<!-- PLAYER ZONE -->
-
-<div align="center">
-
-## `04` — 🎮 PLAYER ZONE
-
-<table>
-<tr>
-
-<td align="center" valign="middle" width="30%">
-
-<img src="https://cdn.simpleicons.org/pubg/FFFFFF" width="110" alt="PUBG"/>
-
-<strong>PUBG PC</strong><br/>
-<code>LEVEL 110</code>
-
-</td>
-
-<td align="center" valign="middle" width="35%">
-
-<strong>STORY MODE</strong>
-
-<br/><br/>
-
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Red_Dead_Redemption_2_Logo.png" width="115" alt="Red Dead Redemption 2"/>
-
-<br/>
-
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/The_Last_of_Us_Part_II_logo.svg" width="115" alt="The Last of Us Part II"/>
-
-</td>
-
-<td align="center" valign="middle" width="30%">
-
-<strong>HEROIC BADGES</strong>
-
-<br/>
-
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Freefirelogo.png" width="95" alt="Free Fire"/>
-
-<br/>
-
-<code>CS · 21</code> &nbsp; <code>BR · 11</code>
-
-</td>
-
-</tr>
-</table>
-
-<sub>CODE. COMPETE. REPEAT.</sub>
-
 </div>
 
 ---
